@@ -4,6 +4,5 @@ ultralytics==8.2.103
 pandas
 numpy
 plotly
-torch
-torchvision
 Pillow
+
