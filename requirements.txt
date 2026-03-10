@@ -4,3 +4,5 @@ ultralytics
 pandas
 numpy
 plotly
+torch
+torchvision
